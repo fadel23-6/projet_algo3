@@ -1,7 +1,7 @@
 #include<stdio.h>
+#include<stdlib.h>
 #include"ali_hamo.h"
 #include"fadel_abderrahmen.h"
-#include"selatnia_abderrahmen.h"
 
 int main() {
     // Initialize SDL
